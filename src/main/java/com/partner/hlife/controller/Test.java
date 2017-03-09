@@ -19,7 +19,7 @@ public class Test {
 		if("url".equals(param)){
 			return retUrl("https://www.sohu.com");
 		}
-        System.out.println("local");
+        System.out.println("local-work");
         return "{json:123456}";
 
         
