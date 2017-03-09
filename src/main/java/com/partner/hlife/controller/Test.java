@@ -20,7 +20,7 @@ public class Test {
 			return retUrl("https://www.sohu.com");
 		}
 		
-		return "{json:123}";
+		return "{json:1}";
 	    
         
     }
