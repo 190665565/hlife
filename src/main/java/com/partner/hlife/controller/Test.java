@@ -21,6 +21,7 @@ public class Test {
 		}
 		
 		return "{json:123456}";
+	    System.out.println("remote");
 	    
         
     }
