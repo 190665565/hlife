@@ -22,7 +22,6 @@ public class Test {
         System.out.println("local");
         return "{json:123456}";
 
-		return "{json:123456}";
 	    System.out.println("remote");
 
         
