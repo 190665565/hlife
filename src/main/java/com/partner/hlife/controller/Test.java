@@ -17,7 +17,7 @@ public class Test {
     public String hello(String param){  
 
 		if("url".equals(param)){
-			return retUrl("https://www.baidu.com");
+			return retUrl("https://www.sohu.com");
 		}
 		
 		return "{json:1}";
