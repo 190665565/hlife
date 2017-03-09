@@ -19,8 +19,8 @@ public class Test {
 		if("url".equals(param)){
 			return retUrl("https://www.sohu.com");
 		}
-		
-		return "{json:123456}";
+        System.out.println("local");
+        return "{json:123456}";
 	    
         
     }
