@@ -37,7 +37,7 @@ public class Test {
 	@ResponseBody
     public String hello1(HttpServletResponse response, String type){        
 		 if("json".equals(type)){
-	            String result = "......";
+	            String result = "********";
 	            return result;
 	        } else if("html".equals(type)){
 	            try {
